@@ -1,6 +1,5 @@
 
 #include <cstdlib>
-#include <time.h>
 
 int randomNumber()
 {
