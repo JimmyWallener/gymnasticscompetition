@@ -27,6 +27,6 @@ int main() {
     cout << "\tT\x84vlande 3:\t " << competitorThreeTotal << "\n" << endl;
     cout << "\t" << winner << " har vunnit t\x84vlingen." << endl;
 
-
+    return 0;
 
 }
