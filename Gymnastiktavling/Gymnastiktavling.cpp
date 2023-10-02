@@ -11,9 +11,9 @@ using namespace std;
 int main() {
 
     srand(static_cast<unsigned int>(time(nullptr)));
-    int competitorOne[3] = { randomNumber(), randomNumber(), randomNumber() };
-    int competitorTwo[3] = { randomNumber(), randomNumber(), randomNumber() };
-    int competitorThree[3] = { randomNumber(), randomNumber(), randomNumber() };
+    int competitorOne[3] { randomNumber(), randomNumber(), randomNumber() };
+    int competitorTwo[3] { randomNumber(), randomNumber(), randomNumber() };
+    int competitorThree[3] { randomNumber(), randomNumber(), randomNumber() };
     
 
     int competitorOneTotal = totalSum(competitorOne);
