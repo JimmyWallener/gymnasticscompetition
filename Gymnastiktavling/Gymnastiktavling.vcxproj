@@ -129,9 +129,6 @@
   <ItemGroup>
     <ClCompile Include="Gymnastiktavling.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Max.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
