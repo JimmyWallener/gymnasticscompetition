@@ -131,8 +131,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Max.cpp" />
-    <ClInclude Include="Random.cpp" />
-    <ClInclude Include="Sum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

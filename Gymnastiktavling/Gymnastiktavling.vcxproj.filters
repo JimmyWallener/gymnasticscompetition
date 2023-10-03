@@ -20,13 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Random.cpp">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="Max.cpp">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Sum.cpp">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
